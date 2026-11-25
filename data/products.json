@@ -1,0 +1,22 @@
+{
+  "products": [
+    {
+      "product_id": "herbal-liquor",
+      "version": "v1",
+      "price": 88,
+      "unit": "bottle"
+    },
+    {
+      "product_id": "herbal-liquor",
+      "version": "v2",
+      "price": 98,
+      "unit": "bottle"
+    },
+    {
+      "product_id": "paper-art",
+      "version": "v1",
+      "price": 36,
+      "unit": "set"
+    }
+  ]
+}

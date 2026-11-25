@@ -1,0 +1,44 @@
+{
+  "activities": [
+    {
+      "activity_id": "a1",
+      "revision": 1,
+      "start": "2026-11-20T10:00",
+      "venue": "courtyard",
+      "team": "t1",
+      "status": "planned"
+    },
+    {
+      "activity_id": "a1",
+      "revision": 2,
+      "start": "2026-11-20T11:00",
+      "venue": "courtyard",
+      "team": "t1",
+      "status": "planned"
+    },
+    {
+      "activity_id": "a2",
+      "revision": 1,
+      "start": "2026-11-20T11:15",
+      "venue": "hall",
+      "team": "t1",
+      "status": "planned"
+    }
+  ],
+  "venues": [
+    {
+      "venue": "courtyard",
+      "capacity": 70
+    },
+    {
+      "venue": "hall",
+      "capacity": 90
+    }
+  ],
+  "teams": [
+    {
+      "team": "t1",
+      "travel_minutes": 25
+    }
+  ]
+}

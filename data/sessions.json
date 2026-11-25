@@ -1,0 +1,63 @@
+{
+  "demos": [
+    {
+      "session_id": "d1",
+      "product_id": "herbal-liquor",
+      "version": "v1",
+      "booth": "B1",
+      "bucket": "10:00",
+      "visitors": 32
+    },
+    {
+      "session_id": "d2",
+      "product_id": "herbal-liquor",
+      "version": "v2",
+      "booth": "B1",
+      "bucket": "11:00",
+      "visitors": 28
+    },
+    {
+      "session_id": "d3",
+      "product_id": "paper-art",
+      "version": "v1",
+      "booth": "B2",
+      "bucket": "11:00",
+      "visitors": 19
+    }
+  ],
+  "samples": [
+    {
+      "session_id": "d1",
+      "issued": 25,
+      "accepted": 21
+    },
+    {
+      "session_id": "d2",
+      "issued": 18,
+      "accepted": 14
+    }
+  ],
+  "stock_events": [
+    {
+      "product_id": "herbal-liquor",
+      "version": "v1",
+      "bucket": "10:00",
+      "kind": "opening",
+      "quantity": 16
+    },
+    {
+      "product_id": "herbal-liquor",
+      "version": "v1",
+      "bucket": "10:30",
+      "kind": "stockout",
+      "quantity": 0
+    },
+    {
+      "product_id": "herbal-liquor",
+      "version": "v2",
+      "bucket": "11:00",
+      "kind": "restock",
+      "quantity": 12
+    }
+  ]
+}

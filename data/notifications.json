@@ -1,0 +1,22 @@
+{
+  "recipients": [
+    {
+      "person_id": "p1",
+      "activity_id": "a1",
+      "revision": 1,
+      "receipt": "delivered"
+    },
+    {
+      "person_id": "p2",
+      "activity_id": "a1",
+      "revision": 1,
+      "receipt": "unknown"
+    },
+    {
+      "person_id": "p3",
+      "activity_id": "a1",
+      "revision": 2,
+      "receipt": "delivered"
+    }
+  ]
+}

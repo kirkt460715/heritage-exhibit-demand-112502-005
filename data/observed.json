@@ -1,0 +1,15 @@
+{
+  "attendance": [
+    {
+      "activity_id": "a1",
+      "count": 53,
+      "basis": "entry-sample"
+    }
+  ],
+  "regional_capacity": [
+    {
+      "window": "10:00-12:00",
+      "available": 105
+    }
+  ]
+}

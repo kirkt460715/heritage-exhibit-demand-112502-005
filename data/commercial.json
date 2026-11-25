@@ -1,0 +1,48 @@
+{
+  "transactions": [
+    {
+      "transaction_id": "t1",
+      "product_id": "herbal-liquor",
+      "version": "v1",
+      "quantity": 14,
+      "price": 88,
+      "channel": "retail"
+    },
+    {
+      "transaction_id": "t2",
+      "product_id": "paper-art",
+      "version": "v1",
+      "quantity": 5,
+      "price": 36,
+      "channel": "retail"
+    }
+  ],
+  "dealer_inquiries": [
+    {
+      "inquiry_id": "i1",
+      "product_id": "herbal-liquor",
+      "version": "v2",
+      "estimated_units": 60,
+      "status": "sample-requested"
+    },
+    {
+      "inquiry_id": "i2",
+      "product_id": "paper-art",
+      "version": "v1",
+      "estimated_units": null,
+      "status": "information-requested"
+    }
+  ],
+  "booths": [
+    {
+      "booth": "B1",
+      "area": 12,
+      "location": "entrance"
+    },
+    {
+      "booth": "B2",
+      "area": 8,
+      "location": "gallery"
+    }
+  ]
+}

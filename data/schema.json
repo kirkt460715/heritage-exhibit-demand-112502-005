@@ -1,0 +1,19 @@
+{
+  "event": "synthetic-cultural-exhibit-demand-v1",
+  "description": "文化展位产品版本、品鉴、库存、交易和经销咨询的本地合成资料。",
+  "files": {
+    "products.json": [
+      "products"
+    ],
+    "sessions.json": [
+      "demos",
+      "samples",
+      "stock_events"
+    ],
+    "commercial.json": [
+      "transactions",
+      "dealer_inquiries",
+      "booths"
+    ]
+  }
+}
